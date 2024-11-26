@@ -1,0 +1,20 @@
+name: hive_cookie_store_example
+description: "Demonstrates how to use the hive_cookie_store plugin."
+
+publish_to: "none"
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  cookie_jar: ^4.0.8
+  flutter:
+    sdk: flutter
+  hive_cookie_store:
+    path: ../
+
+dev_dependencies:
+  very_good_analysis: ^6.0.0
+
+flutter:
+  uses-material-design: true
