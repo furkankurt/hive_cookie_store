@@ -1,6 +1,6 @@
 name: hive_cookie_store
 description: >-
-  A cookie store implementation for the `cookie_jar` package that uses Hive for
+  A cookie store implementation for the cookie_jar package that uses Hive for
   persistence and encryption.
 version: 0.1.0
 homepage: https://github.com/furkankurt/hive_cookie_store
