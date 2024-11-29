@@ -1,5 +1,6 @@
 # Hive Cookie Store
 
+[![Pub Link][pub_badge]][pub_link]
 ![coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
@@ -100,3 +101,5 @@ To contribute the package, please follow these steps:
 [coverage_badge]: coverage_badge.svg
 [cookie_jar_link]: https://pub.dev/packages/cookie_jar
 [hive_link]: https://pub.dev/packages/hive
+[pub_badge]: https://img.shields.io/pub/v/hive_cookie_store.svg
+[pub_link]: https://pub.dev/packages/hive_cookie_store
