@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:cookie_jar/cookie_jar.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 
 /// A cookie storage implementation using Hive with optional encryption support.
 /// This storage is used by the [CookieJar] to store cookies.
