@@ -2,7 +2,7 @@ name: hive_cookie_store
 description: >-
   A cookie store implementation for the cookie_jar package that uses Hive for
   persistence and encryption.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/furkankurt/hive_cookie_store
 repository: https://github.com/furkankurt/hive_cookie_store
 issue_tracker: https://github.com/furkankurt/hive_cookie_store/issues
@@ -16,11 +16,11 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_secure_storage: ^9.2.2
-  hive: ^2.2.3
+  hive_ce: ^2.8.0+3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   mocktail: ^1.0.4
   path: ^1.9.0
-  very_good_analysis: ^6.0.0
+  very_good_analysis: ^7.0.0
